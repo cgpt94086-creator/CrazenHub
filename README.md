@@ -1,1 +1,1 @@
-# CrazenHub
+# CrazenHub Arsenal Script
